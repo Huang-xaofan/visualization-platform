@@ -1,4 +1,4 @@
-# htgl
+# 仓库数据可视化平台
 
 ## Project setup
 ```
